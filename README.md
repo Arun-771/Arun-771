@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=ARUN%20ELAN&fontSize=80&fontAlign=50&fontAlignY=40&color=0:8A2BE2,20:00E5FF,40:FF00FF,60:00FFC8,80:39FF14,100:8A2BE2&animation=fadeIn&fontColor=FFFFFF&desc=Data%20Analyst%20%7C%20Python%20Developer&descAlignY=68&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=ARUN%20&fontSize=80&fontAlign=50&fontAlignY=40&color=0:8A2BE2,20:00E5FF,40:FF00FF,60:00FFC8,80:39FF14,100:8A2BE2&animation=fadeIn&fontColor=FFFFFF&desc=Data%20Analyst%20%7C%20&descAlignY=68&descSize=22" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arun</h1>
@@ -18,7 +18,7 @@ Passionate Data Analyst | Python Enthusiast | SQL | Power BI | ETL
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analyst** and **Python enthusiast** who enjoys transforming raw data into meaningful insights. I love solving real-world problems using **Python, SQL, Power BI, and ETL pipelines** while continuously improving my analytical and problem-solving skills.
+I'm a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights. I love solving real-world problems using **Python, SQL, Power BI, and ETL pipelines** while continuously improving my analytical and problem-solving skills.
 
 ---
 
@@ -30,14 +30,15 @@ I'm a passionate **Data Analyst** and **Python enthusiast** who enjoys transform
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,mongodb,git,vscode" />
 </p>
 
-### Data Analytics
+### Data Analytics & Python Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
@@ -97,20 +98,6 @@ I'm a passionate **Data Analyst** and **Python enthusiast** who enjoys transform
 <a href="https://github.com/Arun-771" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arun-771&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-771&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Arun-771&theme=tokyonight"/>
 </p>
 
 ---
