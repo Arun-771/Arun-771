@@ -8,12 +8,6 @@
 Passionate Data Analyst | Python Enthusiast | SQL | Power BI | ETL
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Arun-771">
-    <img src="https://komarev.com/ghpvc/?username=Arun-771&label=Profile%20Views&color=ff00ff&style=for-the-badge"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
